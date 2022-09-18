@@ -15,4 +15,7 @@ KDBX study:
 - <link>https://github.com/Evidlo/examples/blob/master/python/kdbx4_decrypt.py</link> -- .kdbx 4 file parse
 - <link>https://gist.github.com/msmuenchen/9318327</link> -- KDBX v3.x file convention structure
 
+On digitally signing:
+- <link>https://kodey.co.uk/2021/05/22/an-introduction-to-digitial-signatures-asymmetric-encryption-in-python/</link>
+
 See the Issues page for development progress.
