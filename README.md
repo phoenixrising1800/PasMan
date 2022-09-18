@@ -9,4 +9,9 @@ Study/References:
 Package docs:
 - <link>https://pynacl.readthedocs.io/en/latest/install/</link> -- pynacl docs (python for libsodium crypto lib)
 
+KDBX study:
+- <link>https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45</link> -- Keepass file fmt. explained (old)
+- <link>https://github.com/Evidlo/examples/blob/master/python/kdbx4_decrypt.py</link> -- .kdbx 4 file parse
+- <link>https://gist.github.com/msmuenchen/9318327</link> -- KDBX v3.x file convention structure
+
 See the Issues page for development progress.
